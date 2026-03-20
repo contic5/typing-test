@@ -1,0 +1,16 @@
+main
+{
+  background-color: rgb(203, 230, 234);
+  margin: auto;
+  max-width: 800px;
+  min-height: 100vh;
+  padding: 10px;
+}
+body
+{
+  background-color: lightblue;
+}
+#test_text
+{
+  max-width: 800px;
+}
